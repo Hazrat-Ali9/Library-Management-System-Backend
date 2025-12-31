@@ -1,7 +1,7 @@
 class APIFunctionality {
   query: any;
   queryStr: any;
-
+api functionality
   constructor(query: any, queryStr: any) {
     this.query = query;
     this.queryStr = queryStr;
