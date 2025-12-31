@@ -1,5 +1,5 @@
 import { Document } from 'mongoose';
-
+// book interface
 export interface BaseDocument {
   createdAt: Date;
   updatedAt: Date;
