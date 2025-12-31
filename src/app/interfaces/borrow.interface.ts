@@ -1,4 +1,4 @@
-
+// borrow interface
 import { Types } from "mongoose";
 import { BaseDocument } from "./book.interfaces";
 
